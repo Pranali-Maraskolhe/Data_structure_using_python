@@ -1,1 +1,1 @@
-## Compelete Series On Data Structures Using Python
+## Complete Series On Data Structures Using Python
